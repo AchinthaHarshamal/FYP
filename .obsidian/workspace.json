@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "8f3be0ed858a31c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e46cd733beed00f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4702987a9769d42",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Processor/Processor_flow.canvas",
+                "viewState": {
+                  "x": 80.44446950776556,
+                  "y": -333.63263844843357,
+                  "zoom": -0.6666666666666665
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "165903b2eb3f5e4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "28916416ac4680cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e94bb4b8e82f89e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45ef3143aba19635",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "591ad8910c9b8f80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "449e1aed91f1d7ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "18f5638dda722c9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a61eb7999a540741",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Processor/Processor_flow.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e34938007e749124",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Processor/Processor_flow.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50fadcd64a40d8e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af67a9f316fb0fe9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Processor/Processor_flow.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a4702987a9769d42",
+  "lastOpenFiles": [
+    "Processor/images/PC.png",
+    "Processor/Processor_flow.canvas",
+    "Processor/images/ALU.png",
+    "Processor/images/registerFile.png",
+    "Processor/images/pc.png",
+    "Processor/images/adder.png",
+    "Processor/images/imem.png",
+    "Processor/images/singlecycle_1.png",
+    "Processor/images",
+    "E16_abstract.md",
+    "singlecycle_1.png",
+    "Pasted image 20230702004604.png",
+    "Processor",
+    "Slack Time.md",
+    "README.md",
+    "Pasted image 20230701231726.png"
+  ]
+}

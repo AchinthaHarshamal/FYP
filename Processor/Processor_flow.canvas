@@ -18,7 +18,9 @@
 		{"type":"text","text":"-  Instruction memory \n\t- inputs - 64bit instruction  **address**\n\t- output - 32bit instruction \n- combination logic (since it is used only for read)","id":"e12bfe5b283898cd","x":199,"y":940,"width":480,"height":160},
 		{"type":"file","file":"Processor/images/ALU.png","id":"8039894570f957f9","x":1760,"y":466,"width":400,"height":355},
 		{"type":"text","text":"- ALU\n\t- inputs -  64bits input x 2 , 4bits ALU operation \n\t- outputs -  1bit zero signal , 64bits output ","id":"c48588de6987fa0d","x":1760,"y":910,"width":360,"height":150},
-		{"type":"file","file":"Processor/images/PC.png","id":"55389e641afb30cf","x":-1460,"y":408,"width":444,"height":413}
+		{"type":"file","file":"Processor/images/PC.png","id":"55389e641afb30cf","x":-1460,"y":408,"width":444,"height":413},
+		{"type":"file","file":"Processor/images/Full_single_cycle_procssor.png","id":"ab616449dab10670","x":-1040,"y":1640,"width":543,"height":400},
+		{"type":"file","file":"Processor/images/pipline_processor_full.png","id":"b87b5d47282c52aa","x":-191,"y":1640,"width":571,"height":363}
 	],
 	"edges":[
 		{"id":"ff9102e3738d20f3","fromNode":"46517e22c3250581","fromSide":"right","toNode":"e7ce94834becc502","toSide":"left"},

@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e46cd733beed00f3",
+        "id": "a95dee62c22ce69d",
         "type": "tabs",
         "children": [
           {
-            "id": "a4702987a9769d42",
+            "id": "9ee7f3021e80de27",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Processor/Processor_flow.canvas",
                 "viewState": {
-                  "x": 80.44446950776556,
-                  "y": -333.63263844843357,
-                  "zoom": -0.6666666666666665
+                  "x": -799.3830932447318,
+                  "y": 1842.9441359944153,
+                  "zoom": 0.6666666666666667
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Processor/Processor_flow.canvas",
+                "file": "Processor/images/Full_single_cycle_procssor.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Processor/Processor_flow.canvas",
+                "file": "Processor/images/Full_single_cycle_procssor.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Processor/Processor_flow.canvas"
+                "file": "Processor/images/Full_single_cycle_procssor.png"
               }
             }
           }
@@ -150,23 +150,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4702987a9769d42",
+  "active": "9ee7f3021e80de27",
   "lastOpenFiles": [
-    "Processor/images/PC.png",
+    "Processor/RISC-V Instruction types.canvas",
+    "Processor/images/InstructionTypes.png",
     "Processor/Processor_flow.canvas",
+    "Processor/Pipeline Processor.canvas",
+    "Processor/images/pipline_processor_full.png",
+    "Pasted image 20230723230545.png",
+    "Processor/images/Full_single_cycle_procssor.png",
+    "Slack Time.md",
+    "E16_abstract.md",
+    "README.md",
     "Processor/images/ALU.png",
+    "2023-07-14.md",
+    "Processor/images/PC.png",
     "Processor/images/registerFile.png",
     "Processor/images/pc.png",
     "Processor/images/adder.png",
     "Processor/images/imem.png",
-    "Processor/images/singlecycle_1.png",
     "Processor/images",
-    "E16_abstract.md",
-    "singlecycle_1.png",
-    "Pasted image 20230702004604.png",
-    "Processor",
-    "Slack Time.md",
-    "README.md",
-    "Pasted image 20230701231726.png"
+    "Processor"
   ]
 }
